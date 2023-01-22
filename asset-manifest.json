@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My-reads/static/css/main.cce0f4fc.css",
+    "main.js": "/My-reads/static/js/main.21d6a4af.js",
+    "index.html": "/My-reads/index.html",
+    "static/media/arrow-back.svg": "/My-reads/static/media/arrow-back.392bc09c6a87f6314e8d.svg",
+    "static/media/add.svg": "/My-reads/static/media/add.b7fdf29fd5e2a3fea1d3.svg",
+    "static/media/arrow-drop-down.svg": "/My-reads/static/media/arrow-drop-down.98ef3b31dd9e657746a1.svg",
+    "main.cce0f4fc.css.map": "/My-reads/static/css/main.cce0f4fc.css.map",
+    "main.21d6a4af.js.map": "/My-reads/static/js/main.21d6a4af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce0f4fc.css",
+    "static/js/main.21d6a4af.js"
+  ]
+}
